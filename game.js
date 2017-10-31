@@ -136,7 +136,7 @@ function drawScore(){
 
 function drawCharge(){
   ctx.font = "16px Arial";
-  ctx.fillStyle = "ff0000";
+  ctx.fillStyle = "FF0000";
   ctx.fillText("Charges: " + charge,80,20);
 }
 
